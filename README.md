@@ -1,14 +1,14 @@
-## Hey! I'm Eileen 🔮
+## Hey! I'm Eibhlìn 🔮
 
-I'm a frontend fullstack web developer who loves doing awesome stuff with JavaScript and sharing my knowledge with others. I'm currently re-vamping my GitHub, but feel free to follow me or hit me up on social media!
+I'm a web developer who's learning [Scottish Gaelic](https://en.wikipedia.org/wiki/Scottish_Gaelic). I'm passionate about leveraging web technologies to help endangered languages and the people who speak them flourish. I enjoy learning new things and posting my notes for free online. 
 
 ### What I'm up to
 
 - 🛠️ I'm currently building: **A new portfolio website with Next.js**
-- 🛠️ I'm building next: **Vanilla JS Habit Tracker**
-- 🌱 I'm currently learning: **Functional JavaScript**
+- 🛠️ I'm building next: **A revamped UI for [Lute](https://github.com/LuteOrg/lute-v3)**
+- 🌱 I'm currently learning: **Large Language Models**
 - 🤝 I'm looking for help with: **Networking and career opportunities**
-- 💬 Ask me about: **Frontend web development, code mentorship, Kung Fu movies**
+- 💬 Ask me about: **Frontend web development, language learning, **
 
 ### Languages & Tools:
 
