@@ -8,7 +8,7 @@ I'm a web developer who's learning [Scottish Gaelic](https://en.wikipedia.org/wi
 - 🛠️ I'm building next: **A revamped UI for [Lute](https://github.com/LuteOrg/lute-v3)**
 - 🌱 I'm currently learning: **Large Language Models**
 - 🤝 I'm looking for help with: **Networking and career opportunities**
-- 💬 Ask me about: **Frontend web development, language learning, **
+- 💬 Ask me about: **Frontend web development, language learning,**
 
 ### Languages & Tools:
 
