@@ -4,16 +4,15 @@ I'm a web developer who's learning [Scottish Gaelic](https://en.wikipedia.org/wi
 
 ### What I'm up to
 
-- 🛠️ I'm currently building: **A new portfolio website with Next.js**
-- 🛠️ I'm building next: **A revamped UI for [Lute](https://github.com/LuteOrg/lute-v3)**
-- 🌱 I'm currently learning: **Large Language Models**
-- 🤝 I'm looking for help with: **Networking and career opportunities**
+- 🛠️ I'm currently building: **My first desktop app**
+- 🌱 I'm currently learning: **Electron**
+- 🤝 I'm looking for help with: **Electron & Monorepos**
 - 💬 Ask me about: **Frontend web development, language learning,**
 
 ### Languages & Tools:
 
 <img
-  src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"
+  src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png"
   alt="HTML"
   height="50" />
 <img
@@ -48,7 +47,7 @@ I'm a web developer who's learning [Scottish Gaelic](https://en.wikipedia.org/wi
     alt="Node.js"
     height="50" />
 <img
-src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" 
+src="https://icon.icepanel.io/Technology/svg/Jest.svg" 
   alt="Jest" 
   width="50"
   height="50" 
