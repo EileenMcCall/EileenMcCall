@@ -12,7 +12,7 @@ I'm a web developer who's learning [Scottish Gaelic](https://en.wikipedia.org/wi
 ### Languages & Tools:
 
 <img
-  src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"
+  src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"
   alt="HTML"
   height="50" />
 <img
